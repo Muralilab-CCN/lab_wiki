@@ -1,6 +1,12 @@
 site_name: Murali Lab Wiki
 site_description: Internal documentation and protocols for Murali Lab, IIT Jodhpur.
-site_url: https://muralilab.github.io/lab_wiki/  # <-- You can adjust this to your exact GitHub username later
+site_url: https://muralilab-ccn.github.io/lab_wiki/
+
+repo_url: https://github.com/muralilab-ccn/lab_wiki
+edit_uri: edit/main/docs/
+
+extra_javascript:
+  - javascripts/open_in_new_tab.js
 
 theme:
   name: material
@@ -15,3 +21,4 @@ theme:
 nav:
   - Home: index.md
   - Lab Protocols: protocols.md
+  - Lab Meetings: meetings.md
