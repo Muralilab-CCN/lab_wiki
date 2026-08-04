@@ -9,7 +9,7 @@ This page tracks all upcoming and past lab presentations, paper discussions, and
 
 | Date | Presenter | Reading / Topic |
 | :--- | :--- | :--- |
-| 02 Aug 27 | Ashish | Progress updates |
-| 09 Aug 27 | Prashansa | TBA |
-| 16 Aug 27 | Shaheen/Aflah | TBA |
+| 06 Aug 27 | Ashish | Progress updates |
+| 13 Aug 27 | Prashansa | TBA |
+| 19 Aug 27 | Shaheen/Aflah | TBA |
 
