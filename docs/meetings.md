@@ -1,4 +1,4 @@
-# 📚 Lab Meetings & Jorunal Club
+# 📚 Lab Meetings & Journal Club
 
 This page tracks all upcoming and past lab presentations, paper discussions, and progress updates.
 
@@ -9,7 +9,6 @@ This page tracks all upcoming and past lab presentations, paper discussions, and
 
 | Date | Presenter | Reading / Topic |
 | :--- | :--- | :--- |
-| 02 Aug 27 | Ashish | Progress updates |
-| 09 Aug 27 | Prashansa | TBA |
-| 16 Aug 27 | Shaheen/Aflah | TBA |
-
+| 19 Aug 26 | Aflah | Proposal discussion |
+| 13 Aug 26 | Ashish | Progress updates |
+| 06 Aug 26 | Ashish | Progress updates |
